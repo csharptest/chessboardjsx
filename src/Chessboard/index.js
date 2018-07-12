@@ -97,7 +97,6 @@ class Chessboard extends Component {
      * example.
      *
      * Signature: function(node, squareWidth: number) => void
-     * node: the underlying dom node for the square
      */
     roughSquare: PropTypes.func,
     /**
